@@ -5,7 +5,7 @@
 **1) Background**
 
   +  Vision Entertainment Agency (VEA) is a premier agency managing entertainers, agents, customers, and bookings across diverse regions. The database is crucial for tracking engagements, customer preferences, and entertainer styles while ensuring seamless coordination between agents and clients. As Chief Data Scientist, I have been tasked by the CEO to address key operational questions to support the agency's strategic objectives.
-<br>
+
 **2) Objective**
 
   +  **Entertainer Details**: Identify entertainers meeting specific criteria to improve communication and outreach.
