@@ -13,8 +13,6 @@
   +  **Customer Engagements**: Identify key entertainers contributing to strong customer relationships.
   +  **Unbooked or Incomplete Profiles**: Detect unbooked entertainers or incomplete profiles to ensure accuracy and efficiency.
 
-<br>
-
 ### 2. Queries
 
 **1) Case Questions**
