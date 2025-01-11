@@ -1,7 +1,5 @@
 ---[1] Entertainer Details
---Q1. Show a list of entertainers based in ‘Bellevue,’ ‘Redmond,’ or ‘Woodinville’ who do not have a registered email address. 
-Include their stage name, phone number, and city.
-	
+--Q1. Show a list of entertainers based in ‘Bellevue,’ ‘Redmond,’ or ‘Woodinville’ who do not have a registered email address. Include their stage name, phone number, and city.
 SELECT entstagename, entphonenumber, entcity
 FROM entertainers
 WHERE entcity IN ('Bellevue', 'Redmond', 'Woodinville') 
